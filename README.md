@@ -22,6 +22,11 @@
   </a>
 </div>
 
+### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=thiagogbeier&theme=dark)](https://git.io/streak-stats)
+
+![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagogbeier&show_icons=true&theme=radical)
+
 <!---
 thiagogbeier/thiagogbeier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
