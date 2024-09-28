@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thiagogbeier
+- 👋 Hi, I’m @thiagogbeier married to a beautiful wife and father of 2 beloved sons.
 - 👀 I’m interested in Automation, Entra Id, Intune, Security, and PowerShell.
 - 🌱 I’m currently learning PowerShell GUI.
 - 💞️ I’m looking to collaborate on Intune, Entra ID cleanup (hybrid joined devices).
